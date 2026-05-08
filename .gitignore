@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv39/
+
+# Large datasets/models
+DD-Database/
+Driver Drowsiness Dataset (DDD)/
+UL-DD/
+output/
+*.edf
+*.pkl
+*.mp3
+
+# Local artifacts
+*.log

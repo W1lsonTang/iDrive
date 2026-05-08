@@ -1,0 +1,11 @@
+opencv-python>=4.8
+mediapipe==0.10.14
+numpy
+scikit-learn
+joblib
+pandas
+matplotlib
+seaborn
+mne>=1.6
+neurokit2>=0.2
+scipy

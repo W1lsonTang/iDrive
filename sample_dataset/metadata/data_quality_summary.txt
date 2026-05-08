@@ -1,0 +1,9 @@
+visual_rows: 41776
+visual_duplicates: 0
+visual_missing_total: 0
+physio_rows: 2332
+physio_duplicates: 0
+physio_missing_total: 0
+fusion_rows: 292
+fusion_duplicates: 0
+fusion_missing_total: 0
