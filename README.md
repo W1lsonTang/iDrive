@@ -8,7 +8,7 @@ Hey, I'm Wilson. Thanks for checking this out.
 
 So I just finished an 8-page report and I'm pretty tired, so I'm keeping this README casual instead of super formal. If you want to run the demo, just execute `app.py`.
 
-I'm not a CS major (though I really really wish I was), so I did what I could. To be transparent: about 99% of the actual code came from CURSOR. The only part I really designed was the system architecture. That said, I made a genuine effort to understand everything AI suggested like the model choices, training methods, etc..
+I'm not a CS major (though I really really wish I was), so I did what I could. To be transparent: about 99% of the actual code came from CURSOR. The parts I really did were the system architecture, data collection. That said, I made a genuine effort to understand everything AI suggested like the model choices, training methods, etc..
 
 This was a really interesting course. Being able to use your imagination to design a project and then have AI help bring it to life is genuinely exciting. That part was really cool.
 
